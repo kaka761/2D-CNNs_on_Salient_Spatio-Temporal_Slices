@@ -11,31 +11,31 @@ Video understanding remains a challenge even with advanced deep-learning methods
 
 ### Methodology
 
-**Slicing Videos**
+#### **Slicing Videos**
 
 <div align=left>
 <img src="https://github.com/kaka761/2D-CNNs_on_Salient_Spatio-Temporal_Slices/blob/master/xyt.png" align="center" width=55% />
 </div>
 
-**Architecture**
+#### **Architecture**
 
 <div align=left>
 <img src="https://github.com/kaka761/2D-CNNs_on_Salient_Spatio-Temporal_Slices/blob/master/Arch.png" align="center" width=55% />
 </div>
 
-**Salient & Non-Salient Slices**
+#### **Salient & Non-Salient Slices**
 
 <div align=left>
 <img src="https://github.com/kaka761/2D-CNNs_on_Salient_Spatio-Temporal_Slices/blob/master/salient.png" align="center" width=55% />
 </div>
 
-**Examples of Action Recognition Tasks**
+#### **Examples of Action Recognition Tasks**
 
 <div align=left>
 <img src="https://github.com/kaka761/2D-CNNs_on_Salient_Spatio-Temporal_Slices/blob/master/AR.png" align="center" width=55% />
 </div>
 
-**Examples of Hand Geature Recognition Tasks**
+#### **Examples of Hand Geature Recognition Tasks**
 
 <div align=left>
 <img src="https://github.com/kaka761/2D-CNNs_on_Salient_Spatio-Temporal_Slices/blob/master/HGR.png" align="center" width=55% />
